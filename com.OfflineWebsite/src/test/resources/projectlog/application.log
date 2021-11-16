@@ -1,0 +1,1382 @@
+2021-11-12 22:46:04,403  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:46:04,408  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:04,408  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:46:04,409  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:04,409  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:46:08,457  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:46:08,458  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:08,458  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:46:09,401  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:09,401  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:09,407  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:09,408  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:25,544  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:46:25,545  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:25,546  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:46:25,547  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:25,552  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:46:26,853  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:46:26,854  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:26,855  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:46:27,134  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:27,136  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:27,140  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:27,140  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:32,771  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:46:32,771  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:32,772  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:46:32,772  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:32,773  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:46:34,129  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:46:34,132  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:34,132  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:46:34,526  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:34,567  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:34,569  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:34,570  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:38,020  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:46:38,021  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:38,022  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:46:38,023  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:38,024  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:46:39,474  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:46:39,475  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:39,476  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:46:39,820  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:39,821  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:39,824  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:39,825  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:42,201  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:46:42,201  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:42,202  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:46:42,202  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:42,203  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:46:43,539  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:46:43,539  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:43,540  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:46:43,826  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:43,829  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:46:43,831  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:46:43,832  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:48:56,445  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:48:56,475  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:48:56,476  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:48:56,476  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:48:56,476  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:48:58,598  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:48:58,599  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:48:58,600  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:48:58,909  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:48:58,910  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:48:58,919  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:48:58,920  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:49:13,004  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:49:13,005  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:49:13,006  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:49:13,006  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:49:13,017  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:49:14,577  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:49:14,577  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:49:14,578  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:49:15,534  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:49:15,534  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:49:15,538  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:49:15,539  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:51:48,511  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:51:48,542  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:48,542  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:51:48,543  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:48,543  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:51:51,101  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:51:51,101  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:51,102  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:51:54,811  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:54,812  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:51:54,821  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:54,822  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:51:57,828  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:51:57,829  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:57,830  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:51:57,830  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:57,834  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:51:59,432  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:51:59,432  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:51:59,433  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:52:01,728  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:01,729  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:01,734  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:01,735  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:04,462  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:52:04,462  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:04,462  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:52:04,463  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:04,463  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:52:05,913  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:52:05,913  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:05,914  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:52:09,681  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:09,683  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:09,698  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:09,699  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:11,343  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:52:11,344  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:11,345  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:52:11,346  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:11,346  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:52:13,346  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:52:13,347  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:13,347  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:52:20,591  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:20,593  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:20,602  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:20,604  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:23,030  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:52:23,031  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:23,032  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:52:23,032  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:23,033  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:52:24,556  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:52:24,557  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:24,557  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:52:29,603  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:29,605  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:52:29,610  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:52:29,611  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:53:42,937  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:53:42,940  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:42,941  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:53:42,941  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:42,941  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:53:45,104  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:53:45,104  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:45,106  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:53:48,698  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:48,699  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:53:48,708  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:48,709  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:53:50,326  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:53:50,327  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:50,328  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:53:50,329  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:50,332  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:53:51,692  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:53:51,692  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:51,693  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:53:55,914  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:55,915  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:53:55,920  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:55,921  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:53:57,375  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:53:57,376  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:57,376  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:53:57,377  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:57,377  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:53:59,175  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:53:59,176  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:53:59,176  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:54:02,127  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:02,128  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:02,132  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:02,133  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:04,242  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:54:04,258  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:04,259  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:54:04,260  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:04,261  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:54:05,612  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:54:05,612  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:05,613  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:54:09,580  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:09,583  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:09,590  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:09,592  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:11,849  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:54:11,850  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:11,851  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:54:11,851  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:11,852  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:54:13,388  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:54:13,388  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:13,389  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:54:17,633  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:17,634  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:17,640  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:54:17,641  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:54:24,630 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 22:54:24,631 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 22:54:24,632 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 22:54:24,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 22:54:24,634 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 22:54:25,015 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 22:54:25,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 22:54:25,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 22:54:25,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 22:54:25,019 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 22:56:51,420  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:56:51,423  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:51,423  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:56:51,423  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:51,424  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:56:54,345  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:56:54,346  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:54,346  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:56:57,215  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:57,217  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:56:57,229  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:57,231  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:56:58,849  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:56:58,850  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:58,851  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:56:58,852  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:56:58,855  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:57:00,386  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:57:00,386  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:00,387  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:57:03,600  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:03,602  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:03,611  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:03,612  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:05,279  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:57:05,280  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:05,281  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:57:05,281  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:05,282  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:57:06,837  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:57:06,838  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:06,838  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:57:09,926  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:09,927  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:09,937  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:09,937  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:11,754  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:57:11,756  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:11,757  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:57:11,758  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:11,759  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:57:13,218  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:57:13,219  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:13,221  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:57:15,402  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:15,403  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:15,406  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:15,407  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:17,612  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 22:57:17,613  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:17,614  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 22:57:17,615  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:17,616  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 22:57:19,050  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 22:57:19,051  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:19,051  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 22:57:21,574  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:21,576  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:21,581  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 22:57:21,582  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 22:57:24,430 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 22:57:24,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 22:57:24,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 22:57:24,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 22:57:24,434 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 22:57:24,685 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 22:57:24,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 22:57:24,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 22:57:24,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 22:57:24,691 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 23:00:27,307  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:00:27,316  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:27,317  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:00:27,317  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:27,318  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:00:33,838  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:00:33,838  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:33,839  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:00:34,889  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:34,890  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:34,897  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:34,897  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:36,693  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:00:36,694  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:36,695  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:00:36,696  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:36,700  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:00:39,082  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:00:39,083  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:39,083  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:00:42,309  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:42,310  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:42,314  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:42,315  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:44,286  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:00:44,288  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:44,289  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:00:44,290  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:44,292  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:00:45,936  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:00:45,937  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:45,938  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:00:49,839  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:49,840  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:49,849  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:49,851  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:51,888  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:00:51,890  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:51,891  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:00:51,891  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:51,892  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:00:53,460  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:00:53,461  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:53,462  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:00:56,617  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:56,618  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:00:56,623  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:00:56,624  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:01:00,788  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:01:00,789  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:01:00,790  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:01:00,791  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:01:00,792  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:01:02,904  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:01:02,905  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:01:02,905  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:01:07,630  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:01:07,632  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:01:07,638  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:01:07,640  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:01:11,022 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 23:01:11,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 23:01:11,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 23:01:11,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 23:01:11,026 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 23:01:11,390 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-12 23:01:11,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-12 23:01:11,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-12 23:01:11,393 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-12 23:01:11,393 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-12 23:06:44,351  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:06:44,356  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:44,357  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:06:44,357  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:44,358  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:06:47,388  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:06:47,389  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:47,390  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:06:50,266  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:50,267  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:06:50,273  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:50,274  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:06:53,345  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:06:53,346  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:53,347  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:06:53,348  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:53,351  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:06:54,824  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:06:54,824  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:54,825  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:06:58,638  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:58,640  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:06:58,646  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:06:58,647  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:02,686  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:07:02,686  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:02,687  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:07:02,688  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:02,689  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:07:04,139  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:07:04,140  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:04,140  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:07:06,973  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:06,975  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:06,985  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:06,986  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:09,668  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:07:09,668  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:09,669  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:07:09,670  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:09,671  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:07:11,406  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:07:11,406  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:11,414  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:07:14,023  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:14,024  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:14,031  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:14,032  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:16,610  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:07:16,611  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:16,612  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:07:16,613  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:16,613  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:07:18,019  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:07:18,020  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:18,020  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:07:21,197  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:21,199  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:21,202  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:21,202  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:23,768  INFO [main] TestBase:29 - Launching an Application..
+2021-11-12 23:07:23,769  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:23,770  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-12 23:07:23,771  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:23,772  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-12 23:07:25,293  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-12 23:07:25,294  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:25,295  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-12 23:07:27,501  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:27,502  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-12 23:07:27,506  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-12 23:07:27,508  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:31,508  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:01:31,519  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:31,521  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:01:31,522  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:31,523  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:01:38,343  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:01:38,344  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:38,345  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:01:40,668  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:40,671  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:40,685  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:40,687  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:42,801  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:01:42,802  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:42,803  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:01:42,804  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:42,808  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:01:45,270  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:01:45,273  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:45,275  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:01:46,221  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:46,223  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:46,233  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:46,235  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:49,226  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:01:49,227  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:49,228  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:01:49,228  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:49,229  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:01:51,548  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:01:51,549  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:51,551  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:01:52,409  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:52,411  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:52,421  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:52,422  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:55,293  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:01:55,294  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:55,295  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:01:55,295  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:55,296  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:01:57,778  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:01:57,779  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:57,780  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:01:58,909  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:58,910  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:01:58,918  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:01:58,920  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:01,564  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:01,565  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:01,566  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:01,567  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:01,568  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:03,838  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:03,839  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:03,841  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:05,100  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:05,102  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:05,117  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:05,124  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:07,785  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:07,786  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:07,787  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:07,788  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:07,789  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:10,155  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:10,156  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:10,158  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:11,265  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:11,268  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:11,278  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:11,279  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:12,441  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:12,442  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:12,443  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:12,443  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:12,444  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:14,776  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:14,778  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:14,782  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:15,783  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:15,784  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:15,796  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:15,798  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:16,831  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:16,832  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:16,833  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:16,834  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:16,835  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:19,135  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:19,136  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:19,138  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:20,187  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:20,188  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:20,194  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:20,196  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:23,044  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:23,045  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:23,047  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:23,047  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:23,048  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:25,318  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:25,320  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:25,322  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:26,576  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:26,579  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:26,585  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:26,587  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:28,816  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:28,817  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:28,818  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:28,818  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:28,819  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:31,099  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:31,099  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:31,101  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:32,545  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:32,546  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:32,552  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:32,562  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:35,005  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:35,006  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:35,007  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:35,008  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:35,009  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:37,307  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:37,308  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:37,311  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:38,347  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:38,349  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:38,355  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:38,356  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:40,337  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:40,337  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:40,337  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:40,339  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:40,340  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:42,632  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:42,632  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:42,633  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:43,845  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:43,847  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:43,853  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:43,854  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:46,487  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:46,488  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:46,488  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:46,489  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:46,489  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:02:48,774  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:02:48,775  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:48,776  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:02:50,376  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:50,378  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:50,394  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:50,396  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:02:57,708  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:02:57,709  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:57,709  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:02:57,710  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:02:57,711  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:00,193  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:00,194  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:00,195  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:01,275  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:01,276  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:01,281  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:01,283  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:03,533  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:03,534  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:03,535  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:03,535  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:03,537  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:05,807  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:05,808  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:05,809  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:06,971  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:06,973  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:06,977  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:06,978  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:09,095  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:09,095  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:09,096  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:09,097  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:09,097  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:11,427  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:11,428  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:11,429  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:12,269  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:12,271  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:12,276  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:12,278  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:14,456  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:14,457  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:14,458  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:14,458  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:14,459  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:16,720  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:16,721  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:16,722  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:17,702  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:17,704  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:17,710  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:17,711  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:20,221  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:20,221  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:20,222  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:20,223  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:20,223  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:22,602  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:22,603  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:22,604  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:23,837  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:23,838  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:23,843  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:23,844  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:26,478  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:26,478  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:26,479  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:26,480  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:26,480  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:28,752  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:28,753  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:28,754  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:29,951  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:29,952  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:29,957  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:29,959  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:32,462  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:32,462  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:32,463  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:32,464  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:32,464  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:34,837  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:34,837  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:34,838  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:35,873  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:35,874  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:35,881  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:35,882  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:38,114  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:38,115  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:38,116  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:38,117  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:38,117  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:40,486  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:40,487  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:40,488  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:41,865  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:41,866  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:41,872  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:41,874  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:44,256  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:44,257  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:44,258  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:44,258  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:44,259  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:46,502  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:46,503  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:46,504  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:47,726  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:47,727  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:47,731  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:47,732  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:50,209  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:50,210  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:50,211  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:50,211  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:50,212  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:03:52,527  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:03:52,528  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:52,529  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:03:53,663  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:53,664  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:53,686  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:53,687  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:03:58,906  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:03:58,907  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:58,907  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:03:58,908  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:03:58,908  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:01,192  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:01,192  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:01,193  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:02,311  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:02,312  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:02,318  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:02,319  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:04,623  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:04,623  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:04,624  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:04,624  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:04,625  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:06,919  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:06,921  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:06,922  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:08,041  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:08,042  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:08,067  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:08,069  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:10,947  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:10,947  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:10,948  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:10,949  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:10,949  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:13,408  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:13,409  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:13,410  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:14,986  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:14,987  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:14,992  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:14,993  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:17,923  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:17,923  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:17,924  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:17,924  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:17,925  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:20,204  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:20,206  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:20,209  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:21,473  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:21,474  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:21,480  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:21,482  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:24,302  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:24,302  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:24,303  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:24,304  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:24,304  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:26,581  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:26,616  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:26,618  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:27,908  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:27,909  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:27,914  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:27,915  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:30,606  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:30,606  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:30,607  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:30,608  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:30,608  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:32,878  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:32,880  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:32,881  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:34,445  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:34,446  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:34,452  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:34,453  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:37,289  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:37,289  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:37,290  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:37,290  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:37,291  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:39,566  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:39,567  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:39,568  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:40,855  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:40,856  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:40,865  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:40,866  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:43,739  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:43,739  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:43,740  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:43,740  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:43,741  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:46,013  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:46,014  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:46,015  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:47,185  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:47,186  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:47,190  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:47,191  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:50,728  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:50,728  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:50,729  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:50,729  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:50,730  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:04:52,976  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:04:52,977  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:52,978  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:04:54,436  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:54,438  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:54,444  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:54,445  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:04:57,593  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:04:57,595  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:57,596  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:04:57,596  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:04:57,597  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:00,081  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:00,082  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:00,083  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:00,880  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:00,881  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:00,887  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:00,888  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:03,600  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:03,601  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:03,602  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:03,603  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:03,604  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:05,908  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:05,909  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:05,910  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:07,323  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:07,325  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:07,328  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:07,330  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:09,777  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:09,777  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:09,778  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:09,778  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:09,779  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:12,027  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:12,028  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:12,029  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:13,798  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:13,799  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:13,804  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:13,805  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:16,257  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:16,257  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:16,258  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:16,258  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:16,259  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:18,505  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:18,505  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:18,506  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:20,027  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:20,028  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:20,033  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:20,034  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:22,529  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:22,529  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:22,530  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:22,530  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:22,531  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:24,805  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:24,805  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:24,806  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:26,005  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:26,006  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:26,011  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:26,013  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:28,504  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:28,504  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:28,505  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:28,505  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:28,506  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:30,745  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:30,753  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:30,754  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:32,493  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:32,494  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:32,498  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:32,499  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:34,977  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:05:34,978  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:34,979  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:05:34,979  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:34,980  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:05:37,253  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:05:37,254  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:37,255  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:05:38,819  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:38,820  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:38,826  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:05:38,827  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:05:42,531 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-15 22:05:42,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-15 22:05:42,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-15 22:05:42,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-15 22:05:42,539 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-15 22:05:43,377 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-15 22:05:43,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-15 22:05:43,401 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-15 22:05:43,403 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-15 22:05:43,404 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-15 22:13:55,151  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:13:55,165  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:13:55,167  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:13:55,169  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:13:55,170  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:13:59,928  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:13:59,929  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:13:59,931  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:02,584  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:02,586  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:02,598  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:02,599  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:04,651  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:04,652  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:04,654  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:04,655  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:04,661  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:07,163  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:07,165  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:07,167  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:09,864  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:09,866  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:09,878  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:09,880  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:12,719  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:12,719  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:12,721  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:12,721  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:12,722  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:15,107  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:15,108  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:15,111  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:17,861  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:17,863  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:17,871  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:17,873  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:20,664  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:20,665  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:20,666  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:20,667  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:20,668  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:23,002  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:23,003  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:23,006  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:25,604  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:25,606  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:25,616  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:25,618  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:28,296  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:28,297  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:28,298  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:28,298  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:28,299  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:30,697  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:30,698  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:30,700  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:33,446  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:33,447  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:33,460  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:33,462  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:36,122  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:36,123  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:36,124  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:36,124  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:36,126  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:38,486  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:38,489  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:38,490  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:41,373  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:41,375  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:41,387  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:41,389  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:42,503  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:42,504  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:42,505  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:42,505  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:42,507  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:44,912  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:44,913  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:44,914  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:47,749  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:47,751  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:47,759  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:47,761  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:49,090  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:49,091  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:49,093  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:49,093  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:49,095  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:51,475  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:51,477  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:51,478  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:14:54,198  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:54,200  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:54,209  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:54,210  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:14:56,906  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:14:56,907  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:56,907  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:14:56,908  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:56,909  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:14:59,322  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:14:59,323  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:14:59,324  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:01,219  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:01,221  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:01,227  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:01,229  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:03,562  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:03,563  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:03,564  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:03,565  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:03,566  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:05,917  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:05,918  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:05,919  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:07,139  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:07,140  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:07,147  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:07,149  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:09,577  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:09,578  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:09,578  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:09,579  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:09,580  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:12,024  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:12,025  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:12,026  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:12,877  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:12,879  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:12,886  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:12,895  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:14,949  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:14,950  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:14,951  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:14,952  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:14,953  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:17,401  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:17,401  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:17,403  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:18,840  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:18,842  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:18,850  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:18,851  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:21,262  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:21,263  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:21,264  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:21,264  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:21,266  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:23,818  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:23,818  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:23,820  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:24,804  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:24,806  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:24,816  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:24,817  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:32,107  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:32,108  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:32,110  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:32,111  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:32,113  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:34,468  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:34,469  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:34,471  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:35,727  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:35,729  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:35,734  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:35,735  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:37,772  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:37,772  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:37,773  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:37,774  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:37,774  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:40,214  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:40,215  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:40,216  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:41,683  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:41,684  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:41,693  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:41,695  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:43,786  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:43,787  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:43,787  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:43,788  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:43,788  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:46,173  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:46,173  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:46,174  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:47,190  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:47,191  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:47,197  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:47,198  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:49,287  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:49,288  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:49,288  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:49,289  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:49,289  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:51,785  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:51,786  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:51,787  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:52,790  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:52,792  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:52,797  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:52,798  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:55,079  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:15:55,079  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:55,080  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:15:55,080  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:55,081  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:15:57,524  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:15:57,524  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:57,526  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:15:58,860  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:58,861  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:15:58,867  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:15:58,869  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:01,468  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:01,468  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:01,469  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:01,469  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:01,470  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:04,064  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:04,065  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:04,067  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:05,342  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:05,343  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:05,351  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:05,352  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:08,024  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:08,024  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:08,025  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:08,025  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:08,026  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:10,398  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:10,399  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:10,400  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:11,584  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:11,585  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:11,591  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:11,592  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:13,505  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:13,505  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:13,506  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:13,506  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:13,507  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:15,943  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:15,943  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:15,945  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:16,900  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:16,901  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:16,919  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:16,920  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:19,550  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:19,550  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:19,551  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:19,551  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:19,552  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:21,965  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:21,966  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:21,967  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:23,176  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:23,178  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:23,183  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:23,184  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:25,641  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:25,642  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:25,643  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:25,644  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:25,645  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:28,034  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:28,034  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:28,035  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:29,084  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:29,086  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:29,091  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:29,092  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:34,902  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:34,902  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:34,903  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:34,904  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:34,905  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:37,395  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:37,396  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:37,398  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:38,718  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:38,719  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:38,725  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:38,726  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:41,195  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:41,195  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:41,196  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:41,196  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:41,197  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:43,597  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:43,597  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:43,598  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:44,610  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:44,625  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:44,630  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:44,632  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:47,400  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:47,400  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:47,401  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:47,401  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:47,402  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:49,899  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:49,900  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:49,900  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:50,775  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:50,776  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:50,782  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:50,783  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:53,554  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:53,554  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:53,555  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:53,555  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:53,556  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:16:55,996  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:16:55,996  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:55,997  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:16:56,748  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:56,750  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:56,755  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:56,756  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:16:59,497  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:16:59,497  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:59,498  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:16:59,498  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:16:59,499  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:01,913  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:01,914  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:01,914  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:02,972  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:02,973  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:02,978  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:02,979  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:05,735  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:05,735  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:05,736  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:05,737  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:05,738  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:08,163  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:08,164  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:08,166  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:09,251  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:09,256  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:09,262  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:09,263  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:12,137  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:12,137  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:12,138  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:12,138  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:12,139  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:14,531  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:14,532  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:14,533  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:15,597  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:15,599  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:15,605  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:15,606  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:18,408  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:18,408  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:18,409  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:18,409  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:18,410  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:20,796  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:20,797  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:20,798  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:21,878  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:21,880  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:21,884  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:21,885  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:24,718  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:24,718  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:24,719  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:24,719  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:24,720  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:27,075  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:27,075  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:27,076  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:28,334  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:28,335  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:28,339  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:28,340  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:31,432  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:31,433  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:31,434  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:31,435  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:31,436  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:33,786  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:33,786  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:33,787  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:34,854  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:34,855  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:34,860  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:34,862  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:37,698  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:37,698  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:37,699  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:37,699  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:37,700  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:40,116  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:40,117  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:40,117  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:41,248  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:41,249  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:41,254  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:41,256  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:43,824  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:43,824  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:43,824  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:43,824  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:43,825  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:46,206  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:46,209  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:46,210  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:47,438  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:47,453  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:47,457  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:47,458  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:50,018  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:50,018  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:50,019  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:50,019  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:50,020  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:52,429  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:52,429  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:52,430  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:17:53,778  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:53,779  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:53,784  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:53,785  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:17:56,305  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:17:56,305  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:56,306  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:17:56,306  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:56,307  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:17:59,016  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:17:59,017  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:17:59,018  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:18:00,588  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:00,589  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:00,594  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:00,595  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:03,149  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:18:03,149  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:03,150  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:18:03,151  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:03,151  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:18:05,598  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:18:05,599  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:05,601  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:18:06,989  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:06,990  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:06,993  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:06,994  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:09,552  INFO [main] TestBase:29 - Launching an Application..
+2021-11-15 22:18:09,553  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:09,553  INFO [main] PropertiesUtils:24 - value found in the property file for the browser
+2021-11-15 22:18:09,554  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:09,554  INFO [main] PropertiesUtils:24 - value found in the property file for the chromeDriverFilePath
+2021-11-15 22:18:11,906  INFO [main] TestBase:35 - Chrome Browser initialized...
+2021-11-15 22:18:11,907  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:11,908  INFO [main] PropertiesUtils:24 - value found in the property file for the url
+2021-11-15 22:18:13,612  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:13,612  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:13,618  INFO [main] PropertiesUtils:14 - Reading a Property From Property File
+2021-11-15 22:18:13,619  INFO [main] PropertiesUtils:24 - value found in the property file for the pageload
+2021-11-15 22:18:16,902 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-15 22:18:16,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-15 22:18:16,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-15 22:18:16,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-15 22:18:16,915 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-15 22:18:17,738 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-15 22:18:17,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-15 22:18:17,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-15 22:18:17,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-15 22:18:17,744 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

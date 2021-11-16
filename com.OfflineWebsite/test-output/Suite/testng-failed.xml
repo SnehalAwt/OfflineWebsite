@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.ExtentReport.ExtentReporterNG"/>
+  </listeners>
+  <test name="Java By Kiran Offline Website Automation (failed)">
+    <classes>
+      <class name="com.jbk.Test.UsersPageTest">
+        <methods>
+          <include name="checkTitle"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="checkCurrentURL"/>
+          <include name="checkColumn"/>
+        </methods>
+      </class> <!-- com.jbk.Test.UsersPageTest -->
+      <class name="com.jbk.Test.DashboardPageTest">
+        <methods>
+          <include name="checkCurrentURL"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.jbk.Test.DashboardPageTest -->
+    </classes>
+  </test> <!-- Java By Kiran Offline Website Automation (failed) -->
+</suite> <!-- Failed suite [Suite] -->
